@@ -1,0 +1,285 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FC2BCFBF174421D100D7F4C3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC2BCFBE174421D100D7F4C3 /* UIKit.framework */; };
+		FC2BCFC1174421D100D7F4C3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC2BCFC0174421D100D7F4C3 /* Foundation.framework */; };
+		FC2BCFC3174421D100D7F4C3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC2BCFC2174421D100D7F4C3 /* CoreGraphics.framework */; };
+		FC2BCFC9174421D100D7F4C3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFC7174421D100D7F4C3 /* InfoPlist.strings */; };
+		FC2BCFCB174421D100D7F4C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BCFCA174421D100D7F4C3 /* main.m */; };
+		FC2BCFCF174421D200D7F4C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */; };
+		FC2BCFD1174421D200D7F4C3 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFD0174421D200D7F4C3 /* Default.png */; };
+		FC2BCFD3174421D200D7F4C3 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFD2174421D200D7F4C3 /* Default@2x.png */; };
+		FC2BCFD5174421D200D7F4C3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFD4174421D200D7F4C3 /* Default-568h@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKIFIDOLLAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC2BCFBE174421D100D7F4C3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FC2BCFC0174421D100D7F4C3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FC2BCFC2174421D100D7F4C3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FC2BCFC6174421D100D7F4C3 /* SKIFIDOLLAR-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SKIFIDOLLAR-Info.plist"; sourceTree = "<group>"; };
+		FC2BCFC8174421D100D7F4C3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FC2BCFCA174421D100D7F4C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FC2BCFCC174421D100D7F4C3 /* SKIFIDOLLAR-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SKIFIDOLLAR-Prefix.pch"; sourceTree = "<group>"; };
+		FC2BCFCD174421D200D7F4C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FC2BCFD0174421D200D7F4C3 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		FC2BCFD2174421D200D7F4C3 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		FC2BCFD4174421D200D7F4C3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FC2BCFB8174421D100D7F4C3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC2BCFBF174421D100D7F4C3 /* UIKit.framework in Frameworks */,
+				FC2BCFC1174421D100D7F4C3 /* Foundation.framework in Frameworks */,
+				FC2BCFC3174421D100D7F4C3 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FC2BCFB2174421D100D7F4C3 = {
+			isa = PBXGroup;
+			children = (
+				FC2BCFC4174421D100D7F4C3 /* SKIFIDOLLAR */,
+				FC2BCFBD174421D100D7F4C3 /* Frameworks */,
+				FC2BCFBC174421D100D7F4C3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FC2BCFBC174421D100D7F4C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FC2BCFBD174421D100D7F4C3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FC2BCFBE174421D100D7F4C3 /* UIKit.framework */,
+				FC2BCFC0174421D100D7F4C3 /* Foundation.framework */,
+				FC2BCFC2174421D100D7F4C3 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FC2BCFC4174421D100D7F4C3 /* SKIFIDOLLAR */ = {
+			isa = PBXGroup;
+			children = (
+				FC2BCFCD174421D200D7F4C3 /* AppDelegate.h */,
+				FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */,
+				FC2BCFC5174421D100D7F4C3 /* Supporting Files */,
+			);
+			path = SKIFIDOLLAR;
+			sourceTree = "<group>";
+		};
+		FC2BCFC5174421D100D7F4C3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FC2BCFC6174421D100D7F4C3 /* SKIFIDOLLAR-Info.plist */,
+				FC2BCFC7174421D100D7F4C3 /* InfoPlist.strings */,
+				FC2BCFCA174421D100D7F4C3 /* main.m */,
+				FC2BCFCC174421D100D7F4C3 /* SKIFIDOLLAR-Prefix.pch */,
+				FC2BCFD0174421D200D7F4C3 /* Default.png */,
+				FC2BCFD2174421D200D7F4C3 /* Default@2x.png */,
+				FC2BCFD4174421D200D7F4C3 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FC2BCFBA174421D100D7F4C3 /* SKIFIDOLLAR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC2BCFD8174421D200D7F4C3 /* Build configuration list for PBXNativeTarget "SKIFIDOLLAR" */;
+			buildPhases = (
+				FC2BCFB7174421D100D7F4C3 /* Sources */,
+				FC2BCFB8174421D100D7F4C3 /* Frameworks */,
+				FC2BCFB9174421D100D7F4C3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SKIFIDOLLAR;
+			productName = SKIFIDOLLAR;
+			productReference = FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FC2BCFB3174421D100D7F4C3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Viviana Liuni";
+			};
+			buildConfigurationList = FC2BCFB6174421D100D7F4C3 /* Build configuration list for PBXProject "SKIFIDOLLAR" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FC2BCFB2174421D100D7F4C3;
+			productRefGroup = FC2BCFBC174421D100D7F4C3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FC2BCFBA174421D100D7F4C3 /* SKIFIDOLLAR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FC2BCFB9174421D100D7F4C3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC2BCFC9174421D100D7F4C3 /* InfoPlist.strings in Resources */,
+				FC2BCFD1174421D200D7F4C3 /* Default.png in Resources */,
+				FC2BCFD3174421D200D7F4C3 /* Default@2x.png in Resources */,
+				FC2BCFD5174421D200D7F4C3 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FC2BCFB7174421D100D7F4C3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC2BCFCB174421D100D7F4C3 /* main.m in Sources */,
+				FC2BCFCF174421D200D7F4C3 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FC2BCFC7174421D100D7F4C3 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FC2BCFC8174421D100D7F4C3 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FC2BCFD6174421D200D7F4C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FC2BCFD7174421D200D7F4C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FC2BCFD9174421D200D7F4C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SKIFIDOLLAR/SKIFIDOLLAR-Prefix.pch";
+				INFOPLIST_FILE = "SKIFIDOLLAR/SKIFIDOLLAR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FC2BCFDA174421D200D7F4C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SKIFIDOLLAR/SKIFIDOLLAR-Prefix.pch";
+				INFOPLIST_FILE = "SKIFIDOLLAR/SKIFIDOLLAR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FC2BCFB6174421D100D7F4C3 /* Build configuration list for PBXProject "SKIFIDOLLAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2BCFD6174421D200D7F4C3 /* Debug */,
+				FC2BCFD7174421D200D7F4C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC2BCFD8174421D200D7F4C3 /* Build configuration list for PBXNativeTarget "SKIFIDOLLAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2BCFD9174421D200D7F4C3 /* Debug */,
+				FC2BCFDA174421D200D7F4C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FC2BCFB3174421D100D7F4C3 /* Project object */;
+}
