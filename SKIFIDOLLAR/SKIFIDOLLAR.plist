@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>foto</key>
+	<array>
+		<string>Albano Sovrumano.png</string>
+		<string>Bruce Pus.png</string>
+		<string>Ciccio Pasticcio.png</string>
+		<string>Dino Sauro.png</string>
+		<string>Fortunato Intasato.png</string>
+		<string>Gastone Puzzone.png</string>
+		<string>Gedeone Pustolone.png</string>
+		<string>Giacomino Spuntino.png</string>
+		<string>Gustavo Lacacca.png</string>
+		<string>Isabella Pocobella.png</string>
+		<string>Lollo Caccamollo</string>
+		<string>Matteo Babbeo.png</string>
+		<string>Mirkone Marcione.png</string>
+		<string>Pamela Facciadimela.png</string>
+		<string>Petronilla Megatonsilla.png</string>
+		<string>Renato Cariato.png</string>
+		<string>Ruggero Occhionero.png</string>
+		<string>Teodoro Pomodoro.png</string>
+		<string>Tiziano Vulcano.png</string>
+		<string>Valentino Nasofino.png</string>
+	</array>
+</dict>
+</plist>
