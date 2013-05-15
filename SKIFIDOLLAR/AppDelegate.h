@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  SKIFIDOLLAR
+//  Com-Unity
 //
-//  Created by Stardust on 15/05/13.
+//  Created by Stardust on 04/02/13.
 //  Copyright (c) 2013 Viviana Liuni. All rights reserved.
 //
 
