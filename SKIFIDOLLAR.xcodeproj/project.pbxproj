@@ -23,6 +23,31 @@
 		FC2BD00A1744252500D7F4C3 /* dettaglioViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BCFEE1744229E00D7F4C3 /* dettaglioViewController.m */; };
 		FC2BD00B1744252D00D7F4C3 /* playViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BCFFE1744229E00D7F4C3 /* playViewController.m */; };
 		FC2BD00C1744253300D7F4C3 /* webViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BD0071744229E00D7F4C3 /* webViewController.m */; };
+		FC7065721744EA4A00732381 /* SKIFIDOLLAR.plist in Resources */ = {isa = PBXBuildFile; fileRef = FC7065711744EA4A00732381 /* SKIFIDOLLAR.plist */; };
+		FC70658C1744EA5300732381 /* Albano Sovrumano.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065741744EA5300732381 /* Albano Sovrumano.png */; };
+		FC70658D1744EA5300732381 /* Bottone_inizia_partita.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065751744EA5300732381 /* Bottone_inizia_partita.png */; };
+		FC70658E1744EA5300732381 /* Bruce Pus.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065761744EA5300732381 /* Bruce Pus.png */; };
+		FC70658F1744EA5300732381 /* Ciccio Pasticcio.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065771744EA5300732381 /* Ciccio Pasticcio.png */; };
+		FC7065901744EA5300732381 /* Dino Sauro.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065781744EA5300732381 /* Dino Sauro.png */; };
+		FC7065911744EA5300732381 /* Fortunato Intasato.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065791744EA5300732381 /* Fortunato Intasato.png */; };
+		FC7065921744EA5300732381 /* Gastone Puzzone.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70657A1744EA5300732381 /* Gastone Puzzone.png */; };
+		FC7065931744EA5300732381 /* Gedeone Pustolone.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70657B1744EA5300732381 /* Gedeone Pustolone.png */; };
+		FC7065941744EA5300732381 /* Giacomino Spuntino.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70657C1744EA5300732381 /* Giacomino Spuntino.png */; };
+		FC7065951744EA5300732381 /* Gustavo Lacacca.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70657D1744EA5300732381 /* Gustavo Lacacca.png */; };
+		FC7065961744EA5300732381 /* icona_play.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70657E1744EA5300732381 /* icona_play.png */; };
+		FC7065971744EA5300732381 /* IDCNews.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70657F1744EA5300732381 /* IDCNews.png */; };
+		FC7065981744EA5300732381 /* Isabella Pocobella.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065801744EA5300732381 /* Isabella Pocobella.png */; };
+		FC7065991744EA5300732381 /* Lollo Caccamollo.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065811744EA5300732381 /* Lollo Caccamollo.png */; };
+		FC70659A1744EA5300732381 /* Matteo Babbeo.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065821744EA5300732381 /* Matteo Babbeo.png */; };
+		FC70659B1744EA5300732381 /* Mirkone Marcione.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065831744EA5300732381 /* Mirkone Marcione.png */; };
+		FC70659C1744EA5300732381 /* Pamela Facciadimela.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065841744EA5300732381 /* Pamela Facciadimela.png */; };
+		FC70659D1744EA5300732381 /* Petronilla Megatonsilla.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065851744EA5300732381 /* Petronilla Megatonsilla.png */; };
+		FC70659E1744EA5300732381 /* Quadrato_bianco_scritta.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065861744EA5300732381 /* Quadrato_bianco_scritta.png */; };
+		FC70659F1744EA5300732381 /* Renato Cariato.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065871744EA5300732381 /* Renato Cariato.png */; };
+		FC7065A01744EA5300732381 /* Ruggero Occhionero.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065881744EA5300732381 /* Ruggero Occhionero.png */; };
+		FC7065A11744EA5300732381 /* Teodoro Pomodoro.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065891744EA5300732381 /* Teodoro Pomodoro.png */; };
+		FC7065A21744EA5300732381 /* Tiziano Vulcano.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70658A1744EA5300732381 /* Tiziano Vulcano.png */; };
+		FC7065A31744EA5300732381 /* Valentino Nasofino.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70658B1744EA5300732381 /* Valentino Nasofino.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,40 +66,40 @@
 		FC2BCFDF1744221400D7F4C3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		FC2BCFE11744221A00D7F4C3 /* Skifidollar_logo57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Skifidollar_logo57.png; sourceTree = "<group>"; };
 		FC2BCFE31744221C00D7F4C3 /* Skifidollar_logo114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Skifidollar_logo114.png; sourceTree = "<group>"; };
-		FC2BCFE51744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
-		FC2BCFE71744229E00D7F4C3 /* Albano Sovrumano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Albano Sovrumano.png"; sourceTree = "<group>"; };
-		FC2BCFE81744229E00D7F4C3 /* Bottone_inizia_partita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bottone_inizia_partita.png; sourceTree = "<group>"; };
-		FC2BCFE91744229E00D7F4C3 /* Bruce Pus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bruce Pus.png"; sourceTree = "<group>"; };
+		FC2BCFE51744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = MainStoryboard_iPhone.storyboard; path = SKIFIDOLLAR/MainStoryboard_iPhone.storyboard; sourceTree = SOURCE_ROOT; };
 		FC2BCFEA1744229E00D7F4C3 /* cellaView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cellaView.h; sourceTree = "<group>"; };
 		FC2BCFEB1744229E00D7F4C3 /* cellaView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cellaView.m; sourceTree = "<group>"; };
-		FC2BCFEC1744229E00D7F4C3 /* Ciccio Pasticcio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ciccio Pasticcio.png"; sourceTree = "<group>"; };
 		FC2BCFED1744229E00D7F4C3 /* dettaglioViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dettaglioViewController.h; sourceTree = "<group>"; };
 		FC2BCFEE1744229E00D7F4C3 /* dettaglioViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dettaglioViewController.m; sourceTree = "<group>"; };
-		FC2BCFEF1744229E00D7F4C3 /* Dino Sauro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dino Sauro.png"; sourceTree = "<group>"; };
-		FC2BCFF01744229E00D7F4C3 /* Fortunato Intasato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fortunato Intasato.png"; sourceTree = "<group>"; };
-		FC2BCFF11744229E00D7F4C3 /* Gastone Puzzone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gastone Puzzone.png"; sourceTree = "<group>"; };
-		FC2BCFF21744229E00D7F4C3 /* Gedeone Pustolone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gedeone Pustolone.png"; sourceTree = "<group>"; };
-		FC2BCFF31744229E00D7F4C3 /* Giacomino Spuntino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Giacomino Spuntino.png"; sourceTree = "<group>"; };
-		FC2BCFF41744229E00D7F4C3 /* Gustavo Lacacca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gustavo Lacacca.png"; sourceTree = "<group>"; };
-		FC2BCFF51744229E00D7F4C3 /* icona_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icona_play.png; sourceTree = "<group>"; };
-		FC2BCFF61744229E00D7F4C3 /* IDCNews.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IDCNews.png; sourceTree = "<group>"; };
-		FC2BCFF71744229E00D7F4C3 /* Isabella Pocobella.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Isabella Pocobella.png"; sourceTree = "<group>"; };
-		FC2BCFF81744229E00D7F4C3 /* Lollo Caccamollo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lollo Caccamollo.png"; sourceTree = "<group>"; };
-		FC2BCFF91744229E00D7F4C3 /* Matteo Babbeo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Matteo Babbeo.png"; sourceTree = "<group>"; };
-		FC2BCFFA1744229E00D7F4C3 /* Mirkone Marcione.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mirkone Marcione.png"; sourceTree = "<group>"; };
-		FC2BCFFB1744229E00D7F4C3 /* Pamela Facciadimela.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pamela Facciadimela.png"; sourceTree = "<group>"; };
-		FC2BCFFC1744229E00D7F4C3 /* Petronilla Megatonsilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Petronilla Megatonsilla.png"; sourceTree = "<group>"; };
 		FC2BCFFD1744229E00D7F4C3 /* playViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = playViewController.h; sourceTree = "<group>"; };
 		FC2BCFFE1744229E00D7F4C3 /* playViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = playViewController.m; sourceTree = "<group>"; };
-		FC2BCFFF1744229E00D7F4C3 /* Quadrato_bianco_scritta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Quadrato_bianco_scritta.png; sourceTree = "<group>"; };
-		FC2BD0001744229E00D7F4C3 /* Renato Cariato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Renato Cariato.png"; sourceTree = "<group>"; };
-		FC2BD0011744229E00D7F4C3 /* Ruggero Occhionero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ruggero Occhionero.png"; sourceTree = "<group>"; };
-		FC2BD0021744229E00D7F4C3 /* SKIFIDOLLAR.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = SKIFIDOLLAR.plist; sourceTree = "<group>"; };
-		FC2BD0031744229E00D7F4C3 /* Teodoro Pomodoro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Teodoro Pomodoro.png"; sourceTree = "<group>"; };
-		FC2BD0041744229E00D7F4C3 /* Tiziano Vulcano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tiziano Vulcano.png"; sourceTree = "<group>"; };
-		FC2BD0051744229E00D7F4C3 /* Valentino Nasofino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Valentino Nasofino.png"; sourceTree = "<group>"; };
 		FC2BD0061744229E00D7F4C3 /* webViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = webViewController.h; sourceTree = "<group>"; };
 		FC2BD0071744229E00D7F4C3 /* webViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = webViewController.m; sourceTree = "<group>"; };
+		FC7065711744EA4A00732381 /* SKIFIDOLLAR.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SKIFIDOLLAR.plist; sourceTree = "<group>"; };
+		FC7065741744EA5300732381 /* Albano Sovrumano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Albano Sovrumano.png"; sourceTree = "<group>"; };
+		FC7065751744EA5300732381 /* Bottone_inizia_partita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bottone_inizia_partita.png; sourceTree = "<group>"; };
+		FC7065761744EA5300732381 /* Bruce Pus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bruce Pus.png"; sourceTree = "<group>"; };
+		FC7065771744EA5300732381 /* Ciccio Pasticcio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ciccio Pasticcio.png"; sourceTree = "<group>"; };
+		FC7065781744EA5300732381 /* Dino Sauro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dino Sauro.png"; sourceTree = "<group>"; };
+		FC7065791744EA5300732381 /* Fortunato Intasato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Fortunato Intasato.png"; sourceTree = "<group>"; };
+		FC70657A1744EA5300732381 /* Gastone Puzzone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gastone Puzzone.png"; sourceTree = "<group>"; };
+		FC70657B1744EA5300732381 /* Gedeone Pustolone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gedeone Pustolone.png"; sourceTree = "<group>"; };
+		FC70657C1744EA5300732381 /* Giacomino Spuntino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Giacomino Spuntino.png"; sourceTree = "<group>"; };
+		FC70657D1744EA5300732381 /* Gustavo Lacacca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Gustavo Lacacca.png"; sourceTree = "<group>"; };
+		FC70657E1744EA5300732381 /* icona_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icona_play.png; sourceTree = "<group>"; };
+		FC70657F1744EA5300732381 /* IDCNews.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IDCNews.png; sourceTree = "<group>"; };
+		FC7065801744EA5300732381 /* Isabella Pocobella.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Isabella Pocobella.png"; sourceTree = "<group>"; };
+		FC7065811744EA5300732381 /* Lollo Caccamollo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lollo Caccamollo.png"; sourceTree = "<group>"; };
+		FC7065821744EA5300732381 /* Matteo Babbeo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Matteo Babbeo.png"; sourceTree = "<group>"; };
+		FC7065831744EA5300732381 /* Mirkone Marcione.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mirkone Marcione.png"; sourceTree = "<group>"; };
+		FC7065841744EA5300732381 /* Pamela Facciadimela.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pamela Facciadimela.png"; sourceTree = "<group>"; };
+		FC7065851744EA5300732381 /* Petronilla Megatonsilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Petronilla Megatonsilla.png"; sourceTree = "<group>"; };
+		FC7065861744EA5300732381 /* Quadrato_bianco_scritta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Quadrato_bianco_scritta.png; sourceTree = "<group>"; };
+		FC7065871744EA5300732381 /* Renato Cariato.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Renato Cariato.png"; sourceTree = "<group>"; };
+		FC7065881744EA5300732381 /* Ruggero Occhionero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ruggero Occhionero.png"; sourceTree = "<group>"; };
+		FC7065891744EA5300732381 /* Teodoro Pomodoro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Teodoro Pomodoro.png"; sourceTree = "<group>"; };
+		FC70658A1744EA5300732381 /* Tiziano Vulcano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tiziano Vulcano.png"; sourceTree = "<group>"; };
+		FC70658B1744EA5300732381 /* Valentino Nasofino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Valentino Nasofino.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,14 +151,14 @@
 		FC2BCFC4174421D100D7F4C3 /* SKIFIDOLLAR */ = {
 			isa = PBXGroup;
 			children = (
-				FC2BD008174422A400D7F4C3 /* SKIFIDOLLAR */,
+				FC7065731744EA5300732381 /* image */,
 				FC2BCFEA1744229E00D7F4C3 /* cellaView.h */,
 				FC2BCFEB1744229E00D7F4C3 /* cellaView.m */,
 				FC2BCFED1744229E00D7F4C3 /* dettaglioViewController.h */,
 				FC2BCFEE1744229E00D7F4C3 /* dettaglioViewController.m */,
+				FC7065711744EA4A00732381 /* SKIFIDOLLAR.plist */,
 				FC2BCFFD1744229E00D7F4C3 /* playViewController.h */,
 				FC2BCFFE1744229E00D7F4C3 /* playViewController.m */,
-				FC2BD0021744229E00D7F4C3 /* SKIFIDOLLAR.plist */,
 				FC2BD0061744229E00D7F4C3 /* webViewController.h */,
 				FC2BD0071744229E00D7F4C3 /* webViewController.m */,
 				FC2BCFCD174421D200D7F4C3 /* AppDelegate.h */,
@@ -155,35 +180,35 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		FC2BD008174422A400D7F4C3 /* SKIFIDOLLAR */ = {
+		FC7065731744EA5300732381 /* image */ = {
 			isa = PBXGroup;
 			children = (
-				FC2BD0031744229E00D7F4C3 /* Teodoro Pomodoro.png */,
-				FC2BD0041744229E00D7F4C3 /* Tiziano Vulcano.png */,
-				FC2BD0051744229E00D7F4C3 /* Valentino Nasofino.png */,
-				FC2BCFFF1744229E00D7F4C3 /* Quadrato_bianco_scritta.png */,
-				FC2BD0001744229E00D7F4C3 /* Renato Cariato.png */,
-				FC2BD0011744229E00D7F4C3 /* Ruggero Occhionero.png */,
-				FC2BCFEF1744229E00D7F4C3 /* Dino Sauro.png */,
-				FC2BCFF01744229E00D7F4C3 /* Fortunato Intasato.png */,
-				FC2BCFF11744229E00D7F4C3 /* Gastone Puzzone.png */,
-				FC2BCFF21744229E00D7F4C3 /* Gedeone Pustolone.png */,
-				FC2BCFF31744229E00D7F4C3 /* Giacomino Spuntino.png */,
-				FC2BCFF41744229E00D7F4C3 /* Gustavo Lacacca.png */,
-				FC2BCFF51744229E00D7F4C3 /* icona_play.png */,
-				FC2BCFF61744229E00D7F4C3 /* IDCNews.png */,
-				FC2BCFF71744229E00D7F4C3 /* Isabella Pocobella.png */,
-				FC2BCFF81744229E00D7F4C3 /* Lollo Caccamollo.png */,
-				FC2BCFF91744229E00D7F4C3 /* Matteo Babbeo.png */,
-				FC2BCFFA1744229E00D7F4C3 /* Mirkone Marcione.png */,
-				FC2BCFFB1744229E00D7F4C3 /* Pamela Facciadimela.png */,
-				FC2BCFFC1744229E00D7F4C3 /* Petronilla Megatonsilla.png */,
-				FC2BCFEC1744229E00D7F4C3 /* Ciccio Pasticcio.png */,
-				FC2BCFE71744229E00D7F4C3 /* Albano Sovrumano.png */,
-				FC2BCFE81744229E00D7F4C3 /* Bottone_inizia_partita.png */,
-				FC2BCFE91744229E00D7F4C3 /* Bruce Pus.png */,
+				FC7065741744EA5300732381 /* Albano Sovrumano.png */,
+				FC7065751744EA5300732381 /* Bottone_inizia_partita.png */,
+				FC7065761744EA5300732381 /* Bruce Pus.png */,
+				FC7065771744EA5300732381 /* Ciccio Pasticcio.png */,
+				FC7065781744EA5300732381 /* Dino Sauro.png */,
+				FC7065791744EA5300732381 /* Fortunato Intasato.png */,
+				FC70657A1744EA5300732381 /* Gastone Puzzone.png */,
+				FC70657B1744EA5300732381 /* Gedeone Pustolone.png */,
+				FC70657C1744EA5300732381 /* Giacomino Spuntino.png */,
+				FC70657D1744EA5300732381 /* Gustavo Lacacca.png */,
+				FC70657E1744EA5300732381 /* icona_play.png */,
+				FC70657F1744EA5300732381 /* IDCNews.png */,
+				FC7065801744EA5300732381 /* Isabella Pocobella.png */,
+				FC7065811744EA5300732381 /* Lollo Caccamollo.png */,
+				FC7065821744EA5300732381 /* Matteo Babbeo.png */,
+				FC7065831744EA5300732381 /* Mirkone Marcione.png */,
+				FC7065841744EA5300732381 /* Pamela Facciadimela.png */,
+				FC7065851744EA5300732381 /* Petronilla Megatonsilla.png */,
+				FC7065861744EA5300732381 /* Quadrato_bianco_scritta.png */,
+				FC7065871744EA5300732381 /* Renato Cariato.png */,
+				FC7065881744EA5300732381 /* Ruggero Occhionero.png */,
+				FC7065891744EA5300732381 /* Teodoro Pomodoro.png */,
+				FC70658A1744EA5300732381 /* Tiziano Vulcano.png */,
+				FC70658B1744EA5300732381 /* Valentino Nasofino.png */,
 			);
-			name = SKIFIDOLLAR;
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,6 +269,31 @@
 				FC2BCFE21744221A00D7F4C3 /* Skifidollar_logo57.png in Resources */,
 				FC2BCFE41744221C00D7F4C3 /* Skifidollar_logo114.png in Resources */,
 				FC2BCFE61744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard in Resources */,
+				FC7065721744EA4A00732381 /* SKIFIDOLLAR.plist in Resources */,
+				FC70658C1744EA5300732381 /* Albano Sovrumano.png in Resources */,
+				FC70658D1744EA5300732381 /* Bottone_inizia_partita.png in Resources */,
+				FC70658E1744EA5300732381 /* Bruce Pus.png in Resources */,
+				FC70658F1744EA5300732381 /* Ciccio Pasticcio.png in Resources */,
+				FC7065901744EA5300732381 /* Dino Sauro.png in Resources */,
+				FC7065911744EA5300732381 /* Fortunato Intasato.png in Resources */,
+				FC7065921744EA5300732381 /* Gastone Puzzone.png in Resources */,
+				FC7065931744EA5300732381 /* Gedeone Pustolone.png in Resources */,
+				FC7065941744EA5300732381 /* Giacomino Spuntino.png in Resources */,
+				FC7065951744EA5300732381 /* Gustavo Lacacca.png in Resources */,
+				FC7065961744EA5300732381 /* icona_play.png in Resources */,
+				FC7065971744EA5300732381 /* IDCNews.png in Resources */,
+				FC7065981744EA5300732381 /* Isabella Pocobella.png in Resources */,
+				FC7065991744EA5300732381 /* Lollo Caccamollo.png in Resources */,
+				FC70659A1744EA5300732381 /* Matteo Babbeo.png in Resources */,
+				FC70659B1744EA5300732381 /* Mirkone Marcione.png in Resources */,
+				FC70659C1744EA5300732381 /* Pamela Facciadimela.png in Resources */,
+				FC70659D1744EA5300732381 /* Petronilla Megatonsilla.png in Resources */,
+				FC70659E1744EA5300732381 /* Quadrato_bianco_scritta.png in Resources */,
+				FC70659F1744EA5300732381 /* Renato Cariato.png in Resources */,
+				FC7065A01744EA5300732381 /* Ruggero Occhionero.png in Resources */,
+				FC7065A11744EA5300732381 /* Teodoro Pomodoro.png in Resources */,
+				FC7065A21744EA5300732381 /* Tiziano Vulcano.png in Resources */,
+				FC7065A31744EA5300732381 /* Valentino Nasofino.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +338,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Viviana Liuni (3EPFZ93E88)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -303,6 +354,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				ONLY_ACTIVE_ARCH = YES;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "60D93B83-DED6-418C-ABBF-7A3B8BAEBB5F";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -318,7 +370,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Viviana Liuni (3EPFZ93E88)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -326,6 +379,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "60D93B83-DED6-418C-ABBF-7A3B8BAEBB5F";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -364,7 +418,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -372,6 +427,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
