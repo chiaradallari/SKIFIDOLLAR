@@ -108,7 +108,6 @@
                                     <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="Quadrato_bianco_scritta.png" translatesAutoresizingMaskIntoConstraints="NO" id="t2Q-Ra-kUr"/>
                                         <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VoY-PV-QSD"/>
                                     </subviews>
                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -117,11 +116,7 @@
                                 <constraints>
                                     <constraint firstItem="VoY-PV-QSD" firstAttribute="leading" secondItem="hg7-4x-rXx" secondAttribute="leading" type="default" id="3UO-q9-3ec"/>
                                     <constraint firstItem="VoY-PV-QSD" firstAttribute="trailing" secondItem="hg7-4x-rXx" secondAttribute="trailing" type="default" id="3wS-bh-I9U"/>
-                                    <constraint firstItem="t2Q-Ra-kUr" firstAttribute="trailing" secondItem="hg7-4x-rXx" secondAttribute="trailing" type="default" id="MAu-Nv-CcS"/>
-                                    <constraint firstItem="t2Q-Ra-kUr" firstAttribute="leading" secondItem="hg7-4x-rXx" secondAttribute="leading" type="default" id="c1x-lt-Ge3"/>
                                     <constraint firstItem="VoY-PV-QSD" firstAttribute="top" secondItem="hg7-4x-rXx" secondAttribute="top" type="default" id="fMv-G8-UGb"/>
-                                    <constraint firstItem="t2Q-Ra-kUr" firstAttribute="top" secondItem="hg7-4x-rXx" secondAttribute="top" type="default" id="mzb-Mr-f5v"/>
-                                    <constraint firstItem="t2Q-Ra-kUr" firstAttribute="bottom" secondItem="hg7-4x-rXx" secondAttribute="bottom" type="default" id="vel-Bj-6xv"/>
                                     <constraint firstItem="VoY-PV-QSD" firstAttribute="bottom" secondItem="hg7-4x-rXx" secondAttribute="bottom" type="default" id="zub-Y7-jrZ"/>
                                 </constraints>
                                 <size key="customSize" width="100" height="100"/>
@@ -286,49 +281,8 @@
     <resources>
         <image name="Bottone_inizia_partita.png" width="233" height="92"/>
         <image name="IDCNews.png" width="35" height="35"/>
-        <image name="Quadrato_bianco_scritta.png" width="198" height="198"/>
         <image name="icona_play.png" width="35" height="35"/>
     </resources>
-    <classes>
-        <class className="NSLayoutConstraint" superclassName="NSObject">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
-        </class>
-        <class className="UICollectionReusableView" superclassName="UIView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionReusableView.h"/>
-        </class>
-        <class className="UICollectionViewCell" superclassName="UICollectionReusableView">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewCell.h"/>
-        </class>
-        <class className="UICollectionViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewController.h"/>
-        </class>
-        <class className="UICollectionViewFlowLayout" superclassName="UICollectionViewLayout">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewFlowLayout.h"/>
-        </class>
-        <class className="cellaView" superclassName="UICollectionViewCell">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/cellaView.h"/>
-            <relationships>
-                <relationship kind="outlet" name="imageView" candidateClass="UIImageView"/>
-            </relationships>
-        </class>
-        <class className="dettaglioViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/dettaglioViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="logo" candidateClass="UIImageView"/>
-                <relationship kind="outlet" name="titolo" candidateClass="UILabel"/>
-            </relationships>
-        </class>
-        <class className="playViewController" superclassName="UICollectionViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/playViewController.h"/>
-        </class>
-        <class className="webViewController" superclassName="UIViewController">
-            <source key="sourceIdentifier" type="project" relativePath="./Classes/webViewController.h"/>
-            <relationships>
-                <relationship kind="outlet" name="progresso" candidateClass="UIProgressView"/>
-                <relationship kind="outlet" name="webView" candidateClass="UIWebView"/>
-            </relationships>
-        </class>
-    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>

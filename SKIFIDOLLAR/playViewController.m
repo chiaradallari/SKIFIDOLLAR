@@ -64,7 +64,6 @@
     NSString *strFilePath = [ [NSBundle mainBundle] pathForResource:@"SKIFIDOLLAR" ofType:@"plist" ] ;
     startup= [[NSMutableDictionary alloc] initWithContentsOfFile:strFilePath];
     sponsor=[[NSMutableArray alloc] initWithObjects: nil];
-    
     oggettiAperti=[[NSMutableArray alloc] initWithObjects: nil];
     indicidoppi=[[NSMutableArray alloc] initWithObjects: nil];
     [self shuffle:sponsor];
@@ -93,6 +92,29 @@
     
     [Cell rendivisibile:visibile];
     
+    switch (indexPath.row) {
+        case 0:
+            Cell.backgroundColor=[UIColor yellowColor];
+            break;
+        case 1:
+            Cell.backgroundColor=[UIColor purpleColor];
+            break;
+        case 2:
+            Cell.backgroundColor=[UIColor cyanColor];
+            break;
+        case 3:
+            Cell.backgroundColor=[UIColor orangeColor];
+            break;
+        case 4:
+            Cell.backgroundColor=[UIColor redColor];
+            break;
+        case 5:
+            Cell.backgroundColor=[UIColor greenColor];
+            break;
+            
+        default:
+            break;
+    }
     
     NSString *immagine=[NSString stringWithFormat:@"%@",[sponsor objectAtIndex:indexPath.row]];
     [Cell.imageView setImage:[UIImage imageNamed:immagine]];
