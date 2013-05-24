@@ -49,6 +49,36 @@
 		FC7065A11744EA5300732381 /* Teodoro Pomodoro.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065891744EA5300732381 /* Teodoro Pomodoro.png */; };
 		FC7065A21744EA5300732381 /* Tiziano Vulcano.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70658A1744EA5300732381 /* Tiziano Vulcano.png */; };
 		FC7065A31744EA5300732381 /* Valentino Nasofino.png in Resources */ = {isa = PBXBuildFile; fileRef = FC70658B1744EA5300732381 /* Valentino Nasofino.png */; };
+		FC7EF3C3174FA71400BE7DEB /* Banconote.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C2174FA71400BE7DEB /* Banconote.png */; };
+		FC7EF3CA174FA72200BE7DEB /* MessaggioKO.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C4174FA72200BE7DEB /* MessaggioKO.png */; };
+		FC7EF3CB174FA72200BE7DEB /* MessaggioOK.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C5174FA72200BE7DEB /* MessaggioOK.png */; };
+		FC7EF3CC174FA72200BE7DEB /* SimboloPer.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C6174FA72200BE7DEB /* SimboloPer.png */; };
+		FC7EF3CD174FA72200BE7DEB /* SimboloPiù.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C7174FA72200BE7DEB /* SimboloPiù.png */; };
+		FC7EF3CE174FA72200BE7DEB /* SimboloUguale.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C8174FA72200BE7DEB /* SimboloUguale.png */; };
+		FC7EF3CF174FA72200BE7DEB /* TestoTab2.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3C9174FA72200BE7DEB /* TestoTab2.png */; };
+		FC7EF3E4174FA73500BE7DEB /* 0.5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D0174FA73500BE7DEB /* 0.5.jpg */; };
+		FC7EF3E5174FA73500BE7DEB /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D1174FA73500BE7DEB /* 1.jpg */; };
+		FC7EF3E6174FA73500BE7DEB /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D2174FA73500BE7DEB /* 2.jpg */; };
+		FC7EF3E7174FA73500BE7DEB /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D3174FA73500BE7DEB /* 5.jpg */; };
+		FC7EF3E8174FA73500BE7DEB /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D4174FA73500BE7DEB /* 10.jpg */; };
+		FC7EF3E9174FA73500BE7DEB /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D5174FA73500BE7DEB /* 20.jpg */; };
+		FC7EF3EA174FA73500BE7DEB /* 50.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D6174FA73500BE7DEB /* 50.jpg */; };
+		FC7EF3EB174FA73500BE7DEB /* 100.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D7174FA73500BE7DEB /* 100.jpg */; };
+		FC7EF3EC174FA73500BE7DEB /* 200.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D8174FA73500BE7DEB /* 200.jpg */; };
+		FC7EF3ED174FA73500BE7DEB /* 500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3D9174FA73500BE7DEB /* 500.jpg */; };
+		FC7EF3EE174FA73500BE7DEB /* 1000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3DA174FA73500BE7DEB /* 1000.jpg */; };
+		FC7EF3EF174FA73500BE7DEB /* 2000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3DB174FA73500BE7DEB /* 2000.jpg */; };
+		FC7EF3F0174FA73500BE7DEB /* 5000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3DC174FA73500BE7DEB /* 5000.jpg */; };
+		FC7EF3F1174FA73500BE7DEB /* 10000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3DD174FA73500BE7DEB /* 10000.jpg */; };
+		FC7EF3F2174FA73500BE7DEB /* 20000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3DE174FA73500BE7DEB /* 20000.jpg */; };
+		FC7EF3F3174FA73500BE7DEB /* 50000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3DF174FA73500BE7DEB /* 50000.jpg */; };
+		FC7EF3F4174FA73500BE7DEB /* 100000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3E0174FA73500BE7DEB /* 100000.jpg */; };
+		FC7EF3F5174FA73500BE7DEB /* 200000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3E1174FA73500BE7DEB /* 200000.jpg */; };
+		FC7EF3F6174FA73500BE7DEB /* 500000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3E2174FA73500BE7DEB /* 500000.jpg */; };
+		FC7EF3F7174FA73500BE7DEB /* 1000000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3E3174FA73500BE7DEB /* 1000000.jpg */; };
+		FC7EF3FA174FAA5000BE7DEB /* giocoDollarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC7EF3F9174FAA5000BE7DEB /* giocoDollarViewController.m */; };
+		FC7EF3FC174FAC7400BE7DEB /* dollars.plist in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3FB174FAC7400BE7DEB /* dollars.plist */; };
+		FC7EF3FE174FBF0100BE7DEB /* +.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7EF3FD174FBF0100BE7DEB /* +.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,14 +87,14 @@
 		B400EA8E174619A000156622 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		B400EA9017461C9400156622 /* Testo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Testo.png; sourceTree = "<group>"; };
 		B459986217461E0700916DD2 /* Bottone_inizia_partita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bottone_inizia_partita.png; sourceTree = "<group>"; };
-		FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKIFIDOLLAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC2BCFBB174421D100D7F4C3 /* Skifidollar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Skifidollar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2BCFBE174421D100D7F4C3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FC2BCFC0174421D100D7F4C3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FC2BCFC2174421D100D7F4C3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FC2BCFC6174421D100D7F4C3 /* SKIFIDOLLAR-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SKIFIDOLLAR-Info.plist"; sourceTree = "<group>"; };
+		FC2BCFC6174421D100D7F4C3 /* Skifidollar.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Skifidollar.temp_caseinsensitive_rename-Info.plist"; sourceTree = "<group>"; };
 		FC2BCFC8174421D100D7F4C3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FC2BCFCA174421D100D7F4C3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FC2BCFCC174421D100D7F4C3 /* SKIFIDOLLAR-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SKIFIDOLLAR-Prefix.pch"; sourceTree = "<group>"; };
+		FC2BCFCC174421D100D7F4C3 /* Skifidollar.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Skifidollar.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = "<group>"; };
 		FC2BCFCD174421D200D7F4C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		FC2BCFE11744221A00D7F4C3 /* Skifidollar_logo57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Skifidollar_logo57.png; sourceTree = "<group>"; };
@@ -102,6 +132,37 @@
 		FC7065891744EA5300732381 /* Teodoro Pomodoro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Teodoro Pomodoro.png"; sourceTree = "<group>"; };
 		FC70658A1744EA5300732381 /* Tiziano Vulcano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tiziano Vulcano.png"; sourceTree = "<group>"; };
 		FC70658B1744EA5300732381 /* Valentino Nasofino.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Valentino Nasofino.png"; sourceTree = "<group>"; };
+		FC7EF3C2174FA71400BE7DEB /* Banconote.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Banconote.png; sourceTree = "<group>"; };
+		FC7EF3C4174FA72200BE7DEB /* MessaggioKO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MessaggioKO.png; sourceTree = "<group>"; };
+		FC7EF3C5174FA72200BE7DEB /* MessaggioOK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MessaggioOK.png; sourceTree = "<group>"; };
+		FC7EF3C6174FA72200BE7DEB /* SimboloPer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SimboloPer.png; sourceTree = "<group>"; };
+		FC7EF3C7174FA72200BE7DEB /* SimboloPiù.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SimboloPiù.png"; sourceTree = "<group>"; };
+		FC7EF3C8174FA72200BE7DEB /* SimboloUguale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SimboloUguale.png; sourceTree = "<group>"; };
+		FC7EF3C9174FA72200BE7DEB /* TestoTab2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestoTab2.png; sourceTree = "<group>"; };
+		FC7EF3D0174FA73500BE7DEB /* 0.5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.5.jpg; sourceTree = "<group>"; };
+		FC7EF3D1174FA73500BE7DEB /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		FC7EF3D2174FA73500BE7DEB /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		FC7EF3D3174FA73500BE7DEB /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		FC7EF3D4174FA73500BE7DEB /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		FC7EF3D5174FA73500BE7DEB /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
+		FC7EF3D6174FA73500BE7DEB /* 50.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50.jpg; sourceTree = "<group>"; };
+		FC7EF3D7174FA73500BE7DEB /* 100.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 100.jpg; sourceTree = "<group>"; };
+		FC7EF3D8174FA73500BE7DEB /* 200.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 200.jpg; sourceTree = "<group>"; };
+		FC7EF3D9174FA73500BE7DEB /* 500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 500.jpg; sourceTree = "<group>"; };
+		FC7EF3DA174FA73500BE7DEB /* 1000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1000.jpg; sourceTree = "<group>"; };
+		FC7EF3DB174FA73500BE7DEB /* 2000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2000.jpg; sourceTree = "<group>"; };
+		FC7EF3DC174FA73500BE7DEB /* 5000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5000.jpg; sourceTree = "<group>"; };
+		FC7EF3DD174FA73500BE7DEB /* 10000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10000.jpg; sourceTree = "<group>"; };
+		FC7EF3DE174FA73500BE7DEB /* 20000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20000.jpg; sourceTree = "<group>"; };
+		FC7EF3DF174FA73500BE7DEB /* 50000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50000.jpg; sourceTree = "<group>"; };
+		FC7EF3E0174FA73500BE7DEB /* 100000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 100000.jpg; sourceTree = "<group>"; };
+		FC7EF3E1174FA73500BE7DEB /* 200000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 200000.jpg; sourceTree = "<group>"; };
+		FC7EF3E2174FA73500BE7DEB /* 500000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 500000.jpg; sourceTree = "<group>"; };
+		FC7EF3E3174FA73500BE7DEB /* 1000000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1000000.jpg; sourceTree = "<group>"; };
+		FC7EF3F8174FAA5000BE7DEB /* giocoDollarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = giocoDollarViewController.h; sourceTree = "<group>"; };
+		FC7EF3F9174FAA5000BE7DEB /* giocoDollarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = giocoDollarViewController.m; sourceTree = "<group>"; };
+		FC7EF3FB174FAC7400BE7DEB /* dollars.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = dollars.plist; sourceTree = "<group>"; };
+		FC7EF3FD174FBF0100BE7DEB /* +.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "+.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,7 +196,7 @@
 		FC2BCFBC174421D100D7F4C3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */,
+				FC2BCFBB174421D100D7F4C3 /* Skifidollar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -159,10 +220,13 @@
 				FC2BCFED1744229E00D7F4C3 /* dettaglioViewController.h */,
 				FC2BCFEE1744229E00D7F4C3 /* dettaglioViewController.m */,
 				FC7065711744EA4A00732381 /* SKIFIDOLLAR.plist */,
+				FC7EF3FB174FAC7400BE7DEB /* dollars.plist */,
 				FC2BCFFD1744229E00D7F4C3 /* playViewController.h */,
 				FC2BCFFE1744229E00D7F4C3 /* playViewController.m */,
 				FC2BD0061744229E00D7F4C3 /* webViewController.h */,
 				FC2BD0071744229E00D7F4C3 /* webViewController.m */,
+				FC7EF3F8174FAA5000BE7DEB /* giocoDollarViewController.h */,
+				FC7EF3F9174FAA5000BE7DEB /* giocoDollarViewController.m */,
 				FC2BCFCD174421D200D7F4C3 /* AppDelegate.h */,
 				FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */,
 				FC2BCFE51744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard */,
@@ -174,10 +238,10 @@
 		FC2BCFC5174421D100D7F4C3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FC2BCFC6174421D100D7F4C3 /* SKIFIDOLLAR-Info.plist */,
+				FC2BCFC6174421D100D7F4C3 /* Skifidollar.temp_caseinsensitive_rename-Info.plist */,
 				FC2BCFC7174421D100D7F4C3 /* InfoPlist.strings */,
 				FC2BCFCA174421D100D7F4C3 /* main.m */,
-				FC2BCFCC174421D100D7F4C3 /* SKIFIDOLLAR-Prefix.pch */,
+				FC2BCFCC174421D100D7F4C3 /* Skifidollar.temp_caseinsensitive_rename-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -210,6 +274,34 @@
 				FC7065891744EA5300732381 /* Teodoro Pomodoro.png */,
 				FC70658A1744EA5300732381 /* Tiziano Vulcano.png */,
 				FC70658B1744EA5300732381 /* Valentino Nasofino.png */,
+				FC7EF3C2174FA71400BE7DEB /* Banconote.png */,
+				FC7EF3C4174FA72200BE7DEB /* MessaggioKO.png */,
+				FC7EF3C5174FA72200BE7DEB /* MessaggioOK.png */,
+				FC7EF3C6174FA72200BE7DEB /* SimboloPer.png */,
+				FC7EF3C7174FA72200BE7DEB /* SimboloPiù.png */,
+				FC7EF3C8174FA72200BE7DEB /* SimboloUguale.png */,
+				FC7EF3C9174FA72200BE7DEB /* TestoTab2.png */,
+				FC7EF3FD174FBF0100BE7DEB /* +.png */,
+				FC7EF3D0174FA73500BE7DEB /* 0.5.jpg */,
+				FC7EF3D1174FA73500BE7DEB /* 1.jpg */,
+				FC7EF3D2174FA73500BE7DEB /* 2.jpg */,
+				FC7EF3D3174FA73500BE7DEB /* 5.jpg */,
+				FC7EF3D4174FA73500BE7DEB /* 10.jpg */,
+				FC7EF3D5174FA73500BE7DEB /* 20.jpg */,
+				FC7EF3D6174FA73500BE7DEB /* 50.jpg */,
+				FC7EF3D7174FA73500BE7DEB /* 100.jpg */,
+				FC7EF3D8174FA73500BE7DEB /* 200.jpg */,
+				FC7EF3D9174FA73500BE7DEB /* 500.jpg */,
+				FC7EF3DA174FA73500BE7DEB /* 1000.jpg */,
+				FC7EF3DB174FA73500BE7DEB /* 2000.jpg */,
+				FC7EF3DC174FA73500BE7DEB /* 5000.jpg */,
+				FC7EF3DD174FA73500BE7DEB /* 10000.jpg */,
+				FC7EF3DE174FA73500BE7DEB /* 20000.jpg */,
+				FC7EF3DF174FA73500BE7DEB /* 50000.jpg */,
+				FC7EF3E0174FA73500BE7DEB /* 100000.jpg */,
+				FC7EF3E1174FA73500BE7DEB /* 200000.jpg */,
+				FC7EF3E2174FA73500BE7DEB /* 500000.jpg */,
+				FC7EF3E3174FA73500BE7DEB /* 1000000.jpg */,
 			);
 			path = image;
 			sourceTree = "<group>";
@@ -217,9 +309,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FC2BCFBA174421D100D7F4C3 /* SKIFIDOLLAR */ = {
+		FC2BCFBA174421D100D7F4C3 /* Skifidollar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC2BCFD8174421D200D7F4C3 /* Build configuration list for PBXNativeTarget "SKIFIDOLLAR" */;
+			buildConfigurationList = FC2BCFD8174421D200D7F4C3 /* Build configuration list for PBXNativeTarget "Skifidollar" */;
 			buildPhases = (
 				FC2BCFB7174421D100D7F4C3 /* Sources */,
 				FC2BCFB8174421D100D7F4C3 /* Frameworks */,
@@ -229,9 +321,9 @@
 			);
 			dependencies = (
 			);
-			name = SKIFIDOLLAR;
+			name = Skifidollar;
 			productName = SKIFIDOLLAR;
-			productReference = FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */;
+			productReference = FC2BCFBB174421D100D7F4C3 /* Skifidollar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -243,7 +335,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Viviana Liuni";
 			};
-			buildConfigurationList = FC2BCFB6174421D100D7F4C3 /* Build configuration list for PBXProject "SKIFIDOLLAR" */;
+			buildConfigurationList = FC2BCFB6174421D100D7F4C3 /* Build configuration list for PBXProject "Skifidollar" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -255,7 +347,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FC2BCFBA174421D100D7F4C3 /* SKIFIDOLLAR */,
+				FC2BCFBA174421D100D7F4C3 /* Skifidollar */,
 			);
 		};
 /* End PBXProject section */
@@ -298,6 +390,35 @@
 				B400EA8F174619A000156622 /* Default-568h@2x.png in Resources */,
 				B400EA9117461C9400156622 /* Testo.png in Resources */,
 				B459986317461E0700916DD2 /* Bottone_inizia_partita.png in Resources */,
+				FC7EF3C3174FA71400BE7DEB /* Banconote.png in Resources */,
+				FC7EF3CA174FA72200BE7DEB /* MessaggioKO.png in Resources */,
+				FC7EF3CB174FA72200BE7DEB /* MessaggioOK.png in Resources */,
+				FC7EF3CC174FA72200BE7DEB /* SimboloPer.png in Resources */,
+				FC7EF3CD174FA72200BE7DEB /* SimboloPiù.png in Resources */,
+				FC7EF3CE174FA72200BE7DEB /* SimboloUguale.png in Resources */,
+				FC7EF3CF174FA72200BE7DEB /* TestoTab2.png in Resources */,
+				FC7EF3E4174FA73500BE7DEB /* 0.5.jpg in Resources */,
+				FC7EF3E5174FA73500BE7DEB /* 1.jpg in Resources */,
+				FC7EF3E6174FA73500BE7DEB /* 2.jpg in Resources */,
+				FC7EF3E7174FA73500BE7DEB /* 5.jpg in Resources */,
+				FC7EF3E8174FA73500BE7DEB /* 10.jpg in Resources */,
+				FC7EF3E9174FA73500BE7DEB /* 20.jpg in Resources */,
+				FC7EF3EA174FA73500BE7DEB /* 50.jpg in Resources */,
+				FC7EF3EB174FA73500BE7DEB /* 100.jpg in Resources */,
+				FC7EF3EC174FA73500BE7DEB /* 200.jpg in Resources */,
+				FC7EF3ED174FA73500BE7DEB /* 500.jpg in Resources */,
+				FC7EF3EE174FA73500BE7DEB /* 1000.jpg in Resources */,
+				FC7EF3EF174FA73500BE7DEB /* 2000.jpg in Resources */,
+				FC7EF3F0174FA73500BE7DEB /* 5000.jpg in Resources */,
+				FC7EF3F1174FA73500BE7DEB /* 10000.jpg in Resources */,
+				FC7EF3F2174FA73500BE7DEB /* 20000.jpg in Resources */,
+				FC7EF3F3174FA73500BE7DEB /* 50000.jpg in Resources */,
+				FC7EF3F4174FA73500BE7DEB /* 100000.jpg in Resources */,
+				FC7EF3F5174FA73500BE7DEB /* 200000.jpg in Resources */,
+				FC7EF3F6174FA73500BE7DEB /* 500000.jpg in Resources */,
+				FC7EF3F7174FA73500BE7DEB /* 1000000.jpg in Resources */,
+				FC7EF3FC174FAC7400BE7DEB /* dollars.plist in Resources */,
+				FC7EF3FE174FBF0100BE7DEB /* +.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,6 +435,7 @@
 				FC2BD0091744251A00D7F4C3 /* cellaView.m in Sources */,
 				FC2BCFCB174421D100D7F4C3 /* main.m in Sources */,
 				FC2BCFCF174421D200D7F4C3 /* AppDelegate.m in Sources */,
+				FC7EF3FA174FAA5000BE7DEB /* giocoDollarViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -393,9 +515,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SKIFIDOLLAR/SKIFIDOLLAR-Prefix.pch";
-				INFOPLIST_FILE = "SKIFIDOLLAR/SKIFIDOLLAR-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "SKIFIDOLLAR/Skifidollar.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "SKIFIDOLLAR/Skifidollar.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = Skifidollar;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -404,9 +526,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SKIFIDOLLAR/SKIFIDOLLAR-Prefix.pch";
-				INFOPLIST_FILE = "SKIFIDOLLAR/SKIFIDOLLAR-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "SKIFIDOLLAR/Skifidollar.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "SKIFIDOLLAR/Skifidollar.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = Skifidollar;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -441,9 +563,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SKIFIDOLLAR/SKIFIDOLLAR-Prefix.pch";
-				INFOPLIST_FILE = "SKIFIDOLLAR/SKIFIDOLLAR-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "SKIFIDOLLAR/Skifidollar.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "SKIFIDOLLAR/Skifidollar.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = Skifidollar;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Distribution;
@@ -451,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC2BCFB6174421D100D7F4C3 /* Build configuration list for PBXProject "SKIFIDOLLAR" */ = {
+		FC2BCFB6174421D100D7F4C3 /* Build configuration list for PBXProject "Skifidollar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC2BCFD6174421D200D7F4C3 /* Debug */,
@@ -461,7 +583,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FC2BCFD8174421D200D7F4C3 /* Build configuration list for PBXNativeTarget "SKIFIDOLLAR" */ = {
+		FC2BCFD8174421D200D7F4C3 /* Build configuration list for PBXNativeTarget "Skifidollar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC2BCFD9174421D200D7F4C3 /* Debug */,

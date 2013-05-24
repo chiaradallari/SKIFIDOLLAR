@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>foto</key>
+	<array>
+		<string>0.5.jpg</string>
+		<string>1.jpg</string>
+		<string>2.jpg</string>
+		<string>5.jpg</string>
+		<string>10.jpg</string>
+		<string>20.jpg</string>
+		<string>50.jpg</string>
+		<string>100.jpg</string>
+		<string>200.jpg</string>
+		<string>500.jpg</string>
+		<string>1000.jpg</string>
+		<string>2000.jpg</string>
+		<string>5000.jpg</string>
+		<string>10000.jpg</string>
+		<string>20000.jpg</string>
+		<string>50000.jpg</string>
+		<string>100000.jpg</string>
+		<string>200000.jpg</string>
+		<string>500000.jpg</string>
+		<string>1000000.jpg</string>
+	</array>
+</dict>
+</plist>
