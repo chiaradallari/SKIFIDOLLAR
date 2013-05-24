@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FC2BCFBA174421D100D7F4C3"
                BuildableName = "SKIFIDOLLAR.app"
-               BlueprintName = "SKIFIDOLLAR"
-               ReferencedContainer = "container:SKIFIDOLLAR.xcodeproj">
+               BlueprintName = "Skifidollar"
+               ReferencedContainer = "container:Skifidollar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC2BCFBA174421D100D7F4C3"
             BuildableName = "SKIFIDOLLAR.app"
-            BlueprintName = "SKIFIDOLLAR"
-            ReferencedContainer = "container:SKIFIDOLLAR.xcodeproj">
+            BlueprintName = "Skifidollar"
+            ReferencedContainer = "container:Skifidollar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC2BCFBA174421D100D7F4C3"
             BuildableName = "SKIFIDOLLAR.app"
-            BlueprintName = "SKIFIDOLLAR"
-            ReferencedContainer = "container:SKIFIDOLLAR.xcodeproj">
+            BlueprintName = "Skifidollar"
+            ReferencedContainer = "container:Skifidollar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC2BCFBA174421D100D7F4C3"
             BuildableName = "SKIFIDOLLAR.app"
-            BlueprintName = "SKIFIDOLLAR"
-            ReferencedContainer = "container:SKIFIDOLLAR.xcodeproj">
+            BlueprintName = "Skifidollar"
+            ReferencedContainer = "container:Skifidollar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
