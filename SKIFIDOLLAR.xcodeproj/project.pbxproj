@@ -7,15 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B400EA8B1746194B00156622 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B400EA8A1746194B00156622 /* Default.png */; };
+		B400EA8D1746197E00156622 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B400EA8C1746197E00156622 /* Default@2x.png */; };
+		B400EA8F174619A000156622 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B400EA8E174619A000156622 /* Default-568h@2x.png */; };
+		B400EA9117461C9400156622 /* Testo.png in Resources */ = {isa = PBXBuildFile; fileRef = B400EA9017461C9400156622 /* Testo.png */; };
+		B459986317461E0700916DD2 /* Bottone_inizia_partita.png in Resources */ = {isa = PBXBuildFile; fileRef = B459986217461E0700916DD2 /* Bottone_inizia_partita.png */; };
 		FC2BCFBF174421D100D7F4C3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC2BCFBE174421D100D7F4C3 /* UIKit.framework */; };
 		FC2BCFC1174421D100D7F4C3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC2BCFC0174421D100D7F4C3 /* Foundation.framework */; };
 		FC2BCFC3174421D100D7F4C3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC2BCFC2174421D100D7F4C3 /* CoreGraphics.framework */; };
 		FC2BCFC9174421D100D7F4C3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFC7174421D100D7F4C3 /* InfoPlist.strings */; };
 		FC2BCFCB174421D100D7F4C3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BCFCA174421D100D7F4C3 /* main.m */; };
 		FC2BCFCF174421D200D7F4C3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */; };
-		FC2BCFDC1744220E00D7F4C3 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFDB1744220E00D7F4C3 /* Default.png */; };
-		FC2BCFDE1744221000D7F4C3 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFDD1744221000D7F4C3 /* Default@2x.png */; };
-		FC2BCFE01744221400D7F4C3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFDF1744221400D7F4C3 /* Default-568h@2x.png */; };
 		FC2BCFE21744221A00D7F4C3 /* Skifidollar_logo57.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFE11744221A00D7F4C3 /* Skifidollar_logo57.png */; };
 		FC2BCFE41744221C00D7F4C3 /* Skifidollar_logo114.png in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFE31744221C00D7F4C3 /* Skifidollar_logo114.png */; };
 		FC2BCFE61744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2BCFE51744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard */; };
@@ -25,7 +27,6 @@
 		FC2BD00C1744253300D7F4C3 /* webViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC2BD0071744229E00D7F4C3 /* webViewController.m */; };
 		FC7065721744EA4A00732381 /* SKIFIDOLLAR.plist in Resources */ = {isa = PBXBuildFile; fileRef = FC7065711744EA4A00732381 /* SKIFIDOLLAR.plist */; };
 		FC70658C1744EA5300732381 /* Albano Sovrumano.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065741744EA5300732381 /* Albano Sovrumano.png */; };
-		FC70658D1744EA5300732381 /* Bottone_inizia_partita.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065751744EA5300732381 /* Bottone_inizia_partita.png */; };
 		FC70658E1744EA5300732381 /* Bruce Pus.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065761744EA5300732381 /* Bruce Pus.png */; };
 		FC70658F1744EA5300732381 /* Ciccio Pasticcio.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065771744EA5300732381 /* Ciccio Pasticcio.png */; };
 		FC7065901744EA5300732381 /* Dino Sauro.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7065781744EA5300732381 /* Dino Sauro.png */; };
@@ -51,6 +52,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B400EA8A1746194B00156622 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		B400EA8C1746197E00156622 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		B400EA8E174619A000156622 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B400EA9017461C9400156622 /* Testo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Testo.png; sourceTree = "<group>"; };
+		B459986217461E0700916DD2 /* Bottone_inizia_partita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bottone_inizia_partita.png; sourceTree = "<group>"; };
 		FC2BCFBB174421D100D7F4C3 /* SKIFIDOLLAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKIFIDOLLAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2BCFBE174421D100D7F4C3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FC2BCFC0174421D100D7F4C3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -61,9 +67,6 @@
 		FC2BCFCC174421D100D7F4C3 /* SKIFIDOLLAR-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SKIFIDOLLAR-Prefix.pch"; sourceTree = "<group>"; };
 		FC2BCFCD174421D200D7F4C3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FC2BCFCE174421D200D7F4C3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FC2BCFDB1744220E00D7F4C3 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		FC2BCFDD1744221000D7F4C3 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		FC2BCFDF1744221400D7F4C3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		FC2BCFE11744221A00D7F4C3 /* Skifidollar_logo57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Skifidollar_logo57.png; sourceTree = "<group>"; };
 		FC2BCFE31744221C00D7F4C3 /* Skifidollar_logo114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Skifidollar_logo114.png; sourceTree = "<group>"; };
 		FC2BCFE51744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = MainStoryboard_iPhone.storyboard; path = SKIFIDOLLAR/MainStoryboard_iPhone.storyboard; sourceTree = SOURCE_ROOT; };
@@ -77,7 +80,6 @@
 		FC2BD0071744229E00D7F4C3 /* webViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = webViewController.m; sourceTree = "<group>"; };
 		FC7065711744EA4A00732381 /* SKIFIDOLLAR.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SKIFIDOLLAR.plist; sourceTree = "<group>"; };
 		FC7065741744EA5300732381 /* Albano Sovrumano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Albano Sovrumano.png"; sourceTree = "<group>"; };
-		FC7065751744EA5300732381 /* Bottone_inizia_partita.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bottone_inizia_partita.png; sourceTree = "<group>"; };
 		FC7065761744EA5300732381 /* Bruce Pus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bruce Pus.png"; sourceTree = "<group>"; };
 		FC7065771744EA5300732381 /* Ciccio Pasticcio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ciccio Pasticcio.png"; sourceTree = "<group>"; };
 		FC7065781744EA5300732381 /* Dino Sauro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dino Sauro.png"; sourceTree = "<group>"; };
@@ -120,10 +122,10 @@
 			isa = PBXGroup;
 			children = (
 				FC2BCFE31744221C00D7F4C3 /* Skifidollar_logo114.png */,
+				B400EA8A1746194B00156622 /* Default.png */,
+				B400EA8E174619A000156622 /* Default-568h@2x.png */,
+				B400EA8C1746197E00156622 /* Default@2x.png */,
 				FC2BCFE11744221A00D7F4C3 /* Skifidollar_logo57.png */,
-				FC2BCFDF1744221400D7F4C3 /* Default-568h@2x.png */,
-				FC2BCFDD1744221000D7F4C3 /* Default@2x.png */,
-				FC2BCFDB1744220E00D7F4C3 /* Default.png */,
 				FC2BCFC4174421D100D7F4C3 /* SKIFIDOLLAR */,
 				FC2BCFBD174421D100D7F4C3 /* Frameworks */,
 				FC2BCFBC174421D100D7F4C3 /* Products */,
@@ -183,9 +185,10 @@
 		FC7065731744EA5300732381 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				B400EA9017461C9400156622 /* Testo.png */,
 				FC7065741744EA5300732381 /* Albano Sovrumano.png */,
-				FC7065751744EA5300732381 /* Bottone_inizia_partita.png */,
 				FC7065761744EA5300732381 /* Bruce Pus.png */,
+				B459986217461E0700916DD2 /* Bottone_inizia_partita.png */,
 				FC7065771744EA5300732381 /* Ciccio Pasticcio.png */,
 				FC7065781744EA5300732381 /* Dino Sauro.png */,
 				FC7065791744EA5300732381 /* Fortunato Intasato.png */,
@@ -263,15 +266,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC2BCFC9174421D100D7F4C3 /* InfoPlist.strings in Resources */,
-				FC2BCFDC1744220E00D7F4C3 /* Default.png in Resources */,
-				FC2BCFDE1744221000D7F4C3 /* Default@2x.png in Resources */,
-				FC2BCFE01744221400D7F4C3 /* Default-568h@2x.png in Resources */,
 				FC2BCFE21744221A00D7F4C3 /* Skifidollar_logo57.png in Resources */,
 				FC2BCFE41744221C00D7F4C3 /* Skifidollar_logo114.png in Resources */,
 				FC2BCFE61744223A00D7F4C3 /* MainStoryboard_iPhone.storyboard in Resources */,
 				FC7065721744EA4A00732381 /* SKIFIDOLLAR.plist in Resources */,
 				FC70658C1744EA5300732381 /* Albano Sovrumano.png in Resources */,
-				FC70658D1744EA5300732381 /* Bottone_inizia_partita.png in Resources */,
 				FC70658E1744EA5300732381 /* Bruce Pus.png in Resources */,
 				FC70658F1744EA5300732381 /* Ciccio Pasticcio.png in Resources */,
 				FC7065901744EA5300732381 /* Dino Sauro.png in Resources */,
@@ -294,6 +293,11 @@
 				FC7065A11744EA5300732381 /* Teodoro Pomodoro.png in Resources */,
 				FC7065A21744EA5300732381 /* Tiziano Vulcano.png in Resources */,
 				FC7065A31744EA5300732381 /* Valentino Nasofino.png in Resources */,
+				B400EA8B1746194B00156622 /* Default.png in Resources */,
+				B400EA8D1746197E00156622 /* Default@2x.png in Resources */,
+				B400EA8F174619A000156622 /* Default-568h@2x.png in Resources */,
+				B400EA9117461C9400156622 /* Testo.png in Resources */,
+				B459986317461E0700916DD2 /* Bottone_inizia_partita.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,7 +343,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Viviana Liuni (3EPFZ93E88)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Filippo Francesco Giovanni Della Casa (VFQ66KRKFB)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -354,7 +358,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				ONLY_ACTIVE_ARCH = YES;
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "60D93B83-DED6-418C-ABBF-7A3B8BAEBB5F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "CC3AD70E-74D0-4B3A-90D0-FF7DE3873ED7";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -371,7 +375,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Viviana Liuni (3EPFZ93E88)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Filippo Francesco Giovanni Della Casa (VFQ66KRKFB)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -379,7 +383,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "60D93B83-DED6-418C-ABBF-7A3B8BAEBB5F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "CC3AD70E-74D0-4B3A-90D0-FF7DE3873ED7";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -419,7 +423,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: toymodels srl";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -427,7 +431,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4E785B31-66EF-41B9-B0D3-BECBF44EACCF";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};

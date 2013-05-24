@@ -35,15 +35,6 @@
                         <subviews>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LVR-od-l6f">
                                 <subviews>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="Gioca a memory con gli Skifidol" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="9zw-Wb-A9e">
-                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="134" id="GMc-48-5MA"/>
-                                        </constraints>
-                                        <color key="textColor" red="0.99215692280000001" green="0.96470594409999999" blue="0.0039215688589999999" alpha="1" colorSpace="deviceRGB"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                                    </textView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zFi-L8-10I">
                                         <constraints>
                                             <constraint firstAttribute="height" constant="72" id="25B-NC-Mvh"/>
@@ -60,15 +51,20 @@
                                             <segue destination="8Ss-gN-ch3" kind="push" identifier="" id="2bm-HX-Dx1"/>
                                         </connections>
                                     </button>
+                                    <imageView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" image="Testo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Yl4-6Z-Cc9">
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="250" id="Beb-Yu-mHG"/>
+                                            <constraint firstAttribute="width" constant="233" id="rx3-Rr-7Np"/>
+                                        </constraints>
+                                    </imageView>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstAttribute="trailing" secondItem="9zw-Wb-A9e" secondAttribute="trailing" constant="20" symbolic="YES" type="default" id="4Pn-ba-j9w"/>
-                                    <constraint firstItem="zFi-L8-10I" firstAttribute="centerX" secondItem="9zw-Wb-A9e" secondAttribute="centerX" type="default" id="Do0-cq-wc0"/>
-                                    <constraint firstAttribute="bottom" secondItem="zFi-L8-10I" secondAttribute="bottom" constant="159" id="Yg5-im-yzb"/>
-                                    <constraint firstItem="9zw-Wb-A9e" firstAttribute="top" secondItem="LVR-od-l6f" secondAttribute="top" constant="87" id="dgh-wU-uvn"/>
-                                    <constraint firstItem="9zw-Wb-A9e" firstAttribute="leading" secondItem="LVR-od-l6f" secondAttribute="leading" constant="20" symbolic="YES" type="default" id="gAF-0W-Emw"/>
-                                    <constraint firstItem="zFi-L8-10I" firstAttribute="top" secondItem="9zw-Wb-A9e" secondAttribute="bottom" constant="8" symbolic="YES" type="default" id="u8j-er-A2I"/>
-                                    <constraint firstItem="zFi-L8-10I" firstAttribute="centerX" secondItem="LVR-od-l6f" secondAttribute="centerX" type="default" id="wdu-Um-EPh"/>
+                                    <constraint firstAttribute="trailing" secondItem="Yl4-6Z-Cc9" secondAttribute="trailing" constant="47" id="9k9-VW-btI"/>
+                                    <constraint firstItem="zFi-L8-10I" firstAttribute="top" secondItem="LVR-od-l6f" secondAttribute="top" constant="271" id="CMx-HN-QFC"/>
+                                    <constraint firstItem="Yl4-6Z-Cc9" firstAttribute="top" secondItem="LVR-od-l6f" secondAttribute="top" constant="7" id="h2R-7a-PdN"/>
+                                    <constraint firstItem="zFi-L8-10I" firstAttribute="leading" secondItem="LVR-od-l6f" secondAttribute="leading" constant="50" id="jjI-9L-63d"/>
+                                    <constraint firstAttribute="bottom" secondItem="zFi-L8-10I" secondAttribute="bottom" constant="117" id="xdP-k9-yna"/>
+                                    <constraint firstItem="Yl4-6Z-Cc9" firstAttribute="leading" secondItem="LVR-od-l6f" secondAttribute="leading" constant="40" id="ysw-sE-aGu"/>
                                 </constraints>
                             </scrollView>
                         </subviews>
@@ -80,13 +76,13 @@
                             <constraint firstItem="LVR-od-l6f" firstAttribute="trailing" secondItem="nMb-jM-8Lr" secondAttribute="trailing" type="default" id="g9e-J5-alN"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="play" id="tTx-ng-ObG"/>
+                    <navigationItem key="navigationItem" title="SKIFIMEMORY" id="tTx-ng-ObG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3TU-Mf-dwZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1203" y="360"/>
         </scene>
-        <!--Play View Controller - SKIFIDOL-->
+        <!--Play View Controller-->
         <scene sceneID="eCq-W0-2Uj">
             <objects>
                 <collectionViewController autoresizesArchivedViewToFullSize="NO" id="8Ss-gN-ch3" customClass="playViewController" sceneMemberID="viewController">
@@ -130,7 +126,7 @@
                             <outlet property="delegate" destination="8Ss-gN-ch3" id="nDt-fq-frZ"/>
                         </connections>
                     </collectionView>
-                    <navigationItem key="navigationItem" title="SKIFIDOL" id="agL-E5-uz1"/>
+                    <navigationItem key="navigationItem" id="agL-E5-uz1"/>
                 </collectionViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="BQp-0V-Qhw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -152,7 +148,7 @@
                                             <constraint firstAttribute="width" constant="225" id="NtA-2J-IbA"/>
                                         </constraints>
                                     </imageView>
-                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="280" translatesAutoresizingMaskIntoConstraints="NO" id="LPx-Fz-eL8">
+                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="281" translatesAutoresizingMaskIntoConstraints="NO" id="LPx-Fz-eL8">
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" type="user" id="p96-3A-wAJ"/>
                                         </constraints>
@@ -162,12 +158,12 @@
                                     </label>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstAttribute="bottom" secondItem="LPx-Fz-eL8" secondAttribute="bottom" constant="119" id="6bO-Qx-xG3"/>
-                                    <constraint firstItem="LPx-Fz-eL8" firstAttribute="centerX" secondItem="NtD-1K-Pzz" secondAttribute="centerX" type="default" id="HkD-E0-Peb"/>
+                                    <constraint firstItem="STw-3U-k7p" firstAttribute="centerX" secondItem="NtD-1K-Pzz" secondAttribute="centerX" type="default" id="GC4-vd-gc1"/>
                                     <constraint firstItem="LPx-Fz-eL8" firstAttribute="leading" secondItem="NtD-1K-Pzz" secondAttribute="leading" constant="20" symbolic="YES" type="default" id="KHX-PI-Kro"/>
-                                    <constraint firstAttribute="trailing" secondItem="LPx-Fz-eL8" secondAttribute="trailing" constant="20" symbolic="YES" type="default" id="PdQ-pb-jIB"/>
-                                    <constraint firstItem="STw-3U-k7p" firstAttribute="top" secondItem="NtD-1K-Pzz" secondAttribute="top" constant="146" id="jHm-co-a41"/>
-                                    <constraint firstItem="LPx-Fz-eL8" firstAttribute="top" secondItem="STw-3U-k7p" secondAttribute="bottom" constant="8" symbolic="YES" type="default" id="mZz-cn-dxX"/>
+                                    <constraint firstAttribute="trailing" secondItem="LPx-Fz-eL8" secondAttribute="trailing" constant="19" id="Mjn-PF-5eP"/>
+                                    <constraint firstItem="LPx-Fz-eL8" firstAttribute="top" secondItem="NtD-1K-Pzz" secondAttribute="top" constant="365" id="a3y-Sp-ngx"/>
+                                    <constraint firstAttribute="bottom" secondItem="LPx-Fz-eL8" secondAttribute="bottom" constant="133" id="rah-ad-JGV"/>
+                                    <constraint firstItem="STw-3U-k7p" firstAttribute="top" secondItem="NtD-1K-Pzz" secondAttribute="top" constant="139" id="wZz-6n-968"/>
                                     <constraint firstItem="LPx-Fz-eL8" firstAttribute="centerX" secondItem="STw-3U-k7p" secondAttribute="centerX" type="default" id="xGo-Mm-MqY"/>
                                 </constraints>
                             </scrollView>
@@ -189,7 +185,7 @@
             </objects>
             <point key="canvasLocation" x="1992" y="360"/>
         </scene>
-        <!--Web View Controller - SKIFIBANK-->
+        <!--Web View Controller - SKIFIDOLLAR-->
         <scene sceneID="NYa-fI-WuD">
             <objects>
                 <viewController id="SI7-Z6-pfP" customClass="webViewController" sceneMemberID="viewController">
@@ -248,7 +244,7 @@
                             <constraint firstItem="3JF-vn-tdS" firstAttribute="bottom" secondItem="K2I-R4-cKI" secondAttribute="bottom" type="user" id="uum-L8-oU0"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="SKIFIBANK" image="IDCNews.png" id="2cl-Yf-V8f"/>
+                    <tabBarItem key="tabBarItem" title="SKIFIDOLLAR" image="IDCNews.png" id="2cl-Yf-V8f"/>
                     <connections>
                         <outlet property="progresso" destination="UEf-iv-SI7" id="JiU-Bv-uop"/>
                         <outlet property="webView" destination="FVj-gb-fyy" id="x9B-0I-eYr"/>
@@ -279,10 +275,54 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Bottone_inizia_partita.png" width="233" height="92"/>
+        <image name="Bottone_inizia_partita.png" width="475" height="197"/>
         <image name="IDCNews.png" width="35" height="35"/>
+        <image name="Testo.png" width="517" height="569"/>
         <image name="icona_play.png" width="35" height="35"/>
     </resources>
+    <classes>
+        <class className="NSLayoutConstraint" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
+        </class>
+        <class className="UICollectionReusableView" superclassName="UIView">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionReusableView.h"/>
+        </class>
+        <class className="UICollectionViewCell" superclassName="UICollectionReusableView">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewCell.h"/>
+        </class>
+        <class className="UICollectionViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewController.h"/>
+        </class>
+        <class className="UICollectionViewFlowLayout" superclassName="UICollectionViewLayout">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewFlowLayout.h"/>
+        </class>
+        <class className="UICollectionViewLayout" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/UICollectionViewLayout.h"/>
+        </class>
+        <class className="cellaView" superclassName="UICollectionViewCell">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/cellaView.h"/>
+            <relationships>
+                <relationship kind="outlet" name="imageView" candidateClass="UIImageView"/>
+            </relationships>
+        </class>
+        <class className="dettaglioViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/dettaglioViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="logo" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="titolo" candidateClass="UILabel"/>
+            </relationships>
+        </class>
+        <class className="playViewController" superclassName="UICollectionViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/playViewController.h"/>
+        </class>
+        <class className="webViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/webViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="progresso" candidateClass="UIProgressView"/>
+                <relationship kind="outlet" name="webView" candidateClass="UIWebView"/>
+            </relationships>
+        </class>
+    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>
